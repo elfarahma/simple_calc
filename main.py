@@ -3,11 +3,11 @@
 # menerima input dari user:
     # angka pertama
 
-    angka1 = int(input("Masukkan angka pertama: "))
+angka1 = int(input("Masukkan angka pertama: "))
 
     # angka kedua
 
-    angka2 = int(input("Masukkan angka kedua: "))
+angka2 = int(input("Masukkan angka kedua: "))
 
     # operasi yang dilakukan
         # 1 penjumlahan
